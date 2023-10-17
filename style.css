@@ -1,0 +1,132 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+
+
+h1 {
+    margin-left: 1rem;
+}
+
+.cards-container img {
+    border-radius: 20px;
+    margin: 20px;
+    background-size: cover;
+    box-shadow: 6px 9px 6px blue;
+
+
+}
+
+.cards-containers {
+    display: flex;
+    padding: 10px;
+    margin-left: 70px;
+
+}
+
+.cards-container{
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.cards-container img {
+    box-shadow: 6px 9px 6px blue;
+    border-radius: 20px;
+    /* margin-left: 70px; */
+    height: 300px;
+    border: 2px solid black;
+
+    /* display: flex; */
+
+}
+.card-containers img:hover{
+    background-color: aqua;
+}
+h2 {
+    margin-left: 130px;
+
+}
+
+.footer-info{
+   display: flex;
+    /* margin-left: 130px; */
+
+    
+   
+}
+
+.communities{
+    margin-left: 80px;
+}
+
+.cards-container:hover{
+    box-shadow: 18px 18px 100px yellowgreen;
+ 
+ 
+}
+
+.vikas-box{
+    background-color: #232323;
+    height: 5rem;
+    border-radius: 0.75rem;
+    margin: 0.75rem 0 1.75rem 0;
+    padding: 0.75rem 1rem;
+    box-shadow: 6px 9px 6px goldenrod;
+   
+   
+}
+
+#linkedin {
+    margin-left: 47px;
+    color: black;
+}
+#linkedin a {
+    
+    color: black;
+}
+
+video{
+    border-radius: 100px;
+
+}
+
+video:hover{
+    transform: scale(1.1);
+    transition: ease-in-out;
+
+}
+
+.img-footer{
+    margin-left: 400px;
+}
+
+
+.RAM{
+    font-weight: 500;
+}
+
+h2{
+    margin-left: 70px;
+    align-items: center;
+    justify-content: center;
+}
+
+#log:hover{
+    transition: ease-in-out 1s ;
+    transform: scale(1.2);
+}
+
+h1{
+ margin-left: 340px;
+ font-weight: 700;
+ font-size: 2.75rem;
+}
+.footer-info{
+    color: yellow;
+    padding-left: 100px;
+}
